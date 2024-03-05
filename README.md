@@ -15,4 +15,4 @@ This Python script scrapes information about mobile phone products from the Jumi
 - lxml
 
 ## Usage Example
-$ python jumia_scraper.py
+$ python Jumia.py
